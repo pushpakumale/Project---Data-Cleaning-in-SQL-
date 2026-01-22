@@ -19,7 +19,7 @@ The cleaned data can be directly used for **analytics, dashboards, and reporting
 ---
 
 ## 🗂 Dataset Overview
-- **Data Type:** Structured customer data
+- **Data Type:** Structured layyed-off employee data
 - **Format:** Relational table
 - **Common Issues Found:**
   - Missing values
