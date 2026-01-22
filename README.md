@@ -71,17 +71,6 @@ The cleaned data can be directly used for **analytics, dashboards, and reporting
 
 ---
 
-## 📂 Project Structure
-
-Data-Cleaning-in-SQL/
-│── README.md
-│── raw_data.sql
-│── data_cleaning.sql
-│── cleaned_data.sql
-
-
----
-
 ## ✅ Final Output
 - Cleaned and standardized dataset
 - Improved data accuracy and consistency
